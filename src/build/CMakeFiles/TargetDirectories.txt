@@ -1,0 +1,3 @@
+/home/orin/YOLOv8-TensorRT/csrc/jetson/segment/build/CMakeFiles/yolov8-seg.dir
+/home/orin/YOLOv8-TensorRT/csrc/jetson/segment/build/CMakeFiles/edit_cache.dir
+/home/orin/YOLOv8-TensorRT/csrc/jetson/segment/build/CMakeFiles/rebuild_cache.dir
