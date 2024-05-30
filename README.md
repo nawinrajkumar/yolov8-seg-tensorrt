@@ -5,7 +5,9 @@ mkdir build && cd build
 cmake ..
 make
 
+cd ..
 
-./main -m model.engine
 
-./yolov8-seg yolov8s-seg.engine input/inputmp4
+./yolov8-seg yolov8s-seg.engine input/sample_1.mp4
+
+Need a Monitor to display the output SSH connections wont display an output
